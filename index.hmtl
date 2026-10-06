@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>1000 Achievements SMP</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>Welcome to the official website of "1000 Achievements SMP" Minecraft Server!</h1>
+    <p>Website is currently in development.</p>
+    <p>Server supports and can be joined on 1.7.2 - 26.3 versions.</p>
+    <a href="commands.html">Useful Server Commands</a>
+</body>
+</html>
